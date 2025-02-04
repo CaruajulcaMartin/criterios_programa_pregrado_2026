@@ -85,6 +85,10 @@ p {
     text-align: justify;
 }
 
+.container_informacion ul {
+    text-align: justify;
+}
+
 
 #btn-subir {
     position: fixed;
